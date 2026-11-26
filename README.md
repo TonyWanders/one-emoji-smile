@@ -21,13 +21,14 @@ randomness. The entry is 1 character, inside the 1 to 8 gate.
 ## The emoji
 
 ```
-🤗
+🫶
 ```
 
-The hugging face: a warm, open-armed welcome that reads as kind and
-friendly to any stranger at first glance. It is a chosen gesture, not
-the first smiley that comes to mind, and it carries no intimacy,
-sarcasm or flirtation, so it works coming from someone unknown.
+Heart hands: two hands shaping a heart, a gesture of affection a
+stranger reads instantly, warm and open without a word. It is a
+chosen gesture, not the first smiley that comes to mind, and it
+carries no intimacy, sarcasm or flirtation, so it works coming from
+someone unknown.
 
 ## License
 
